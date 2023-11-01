@@ -1,0 +1,11 @@
+parent(nader,limon).
+parent(nader,reshma).
+parent(nader,shamima).
+parent(helena,limon).
+parent(helena,reshma).
+parent(helena,shamima).
+male(nader).
+male(limon).
+female(helena).
+female(reshma).
+female(shamima).
